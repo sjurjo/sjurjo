@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently working as a lecturer and researcher at the Norwegian Defence University College.
+
 <!--
 **sjurjo/sjurjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
